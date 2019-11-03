@@ -1,0 +1,6 @@
+// test comment line slashes
+-- test comment line dashes
+badIdentifier_ 1morebadIdentifer 
+22.09 33
+.90 goodIdentifer1 
+.40 _argbt
